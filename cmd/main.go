@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/paulofraga/zetadata/base/processa"
-	"github.com/paulofraga/zetadata/compress/gzip"
+	"github.com/PauloFraga/zetadata/base/processa"
+	"github.com/PauloFraga/zetadata/compress/gzip"
 	"path/filepath"
 	"strconv"
 )
