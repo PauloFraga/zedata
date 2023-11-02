@@ -1,3 +1,3 @@
-module github.com/paulofraga/compress
+module github.com/paulofraga/zetadata/compress
 
 go 1.21.1
